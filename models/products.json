@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 500
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Headphones",
+    "price": 150
+  },
+  {
+    "id": 6,
+    "name": "Wireless Earbuds",
+    "price": 120
+  },
+  {
+    "id": 7,
+    "name": "Desktop PC",
+    "price": 800
+  },
+  {
+    "id": 8,
+    "name": "Gaming Console",
+    "price": 400
+  },
+  {
+    "id": 9,
+    "name": "Monitor",
+    "price": 200
+  },
+  {
+    "id": 10,
+    "name": "Keyboard",
+    "price": 50
+  },
+  {
+    "id": 11,
+    "name": "Mouse",
+    "price": 30
+  },
+  {
+    "id": 12,
+    "name": "Printer",
+    "price": 120
+  },
+  {
+    "id": 13,
+    "name": "Router",
+    "price": 70
+  },
+  {
+    "id": 14,
+    "name": "External Hard Drive",
+    "price": 100
+  },
+  {
+    "id": 15,
+    "name": "USB Flash Drive",
+    "price": 40
+  },
+  {
+    "id": 16,
+    "name": "Camera",
+    "price": 600
+  },
+  {
+    "id": 17,
+    "name": "Action Camera",
+    "price": 350
+  },
+  {
+    "id": 18,
+    "name": "Drone",
+    "price": 800
+  },
+  {
+    "id": 19,
+    "name": "VR Headset",
+    "price": 400
+  },
+  {
+    "id": 20,
+    "name": "Smart Speaker",
+    "price": 100
+  },
+  {
+    "id": 21,
+    "name": "Home Security Camera",
+    "price": 150
+  },
+  {
+    "id": 22,
+    "name": "Gaming Chair",
+    "price": 250
+  },
+  {
+    "id": 23,
+    "name": "Desk",
+    "price": 200
+  },
+  {
+    "id": 24,
+    "name": "Laptop Stand",
+    "price": 50
+  },
+  {
+    "id": 25,
+    "name": "Tablet Case",
+    "price": 30
+  },
+  {
+    "id": 26,
+    "name": "Smartphone Case",
+    "price": 20
+  },
+  {
+    "id": 27,
+    "name": "Screen Protector",
+    "price": 10
+  },
+  {
+    "id": 28,
+    "name": "Portable Charger",
+    "price": 30
+  },
+  {
+    "id": 29,
+    "name": "Car Charger",
+    "price": 20
+  },
+  {
+    "id": 30,
+    "name": "HDMI Cable",
+    "price": 15
+  },
+  {
+    "id": 31,
+    "name": "Ethernet Cable",
+    "price": 10
+  },
+  {
+    "id": 32,
+    "name": "Power Bank",
+    "price": 40
+  },
+  {
+    "id": 33,
+    "name": "Laptop Bag",
+    "price": 60
+  },
+  {
+    "id": 34,
+    "name": "Fitness Tracker",
+    "price": 80
+  },
+  {
+    "id": 35,
+    "name": "Electric Toothbrush",
+    "price": 120
+  },
+  {
+    "id": 36,
+    "name": "Hair Dryer",
+    "price": 70
+  },
+  {
+    "id": 37,
+    "name": "Portable Bluetooth Speaker",
+    "price": 90
+  },
+  {
+    "id": 38,
+    "name": "Smart Lamp",
+    "price": 60
+  },
+  {
+    "id": 39,
+    "name": "Wi-Fi Extender",
+    "price": 50
+  },
+  {
+    "id": 40,
+    "name": "Smart Thermostat",
+    "price": 200
+  },
+  {
+    "id": 41,
+    "name": "Streaming Device",
+    "price": 50
+  },
+  {
+    "id": 42,
+    "name": "3D Printer",
+    "price": 1000
+  },
+  {
+    "id": 43,
+    "name": "Electric Kettle",
+    "price": 40
+  },
+  {
+    "id": 44,
+    "name": "Coffee Maker",
+    "price": 150
+  },
+  {
+    "id": 45,
+    "name": "Air Fryer",
+    "price": 120
+  },
+  {
+    "id": 46,
+    "name": "Microwave",
+    "price": 250
+  },
+  {
+    "id": 47,
+    "name": "Refrigerator",
+    "price": 800
+  },
+  {
+    "id": 48,
+    "name": "Dishwasher",
+    "price": 600
+  },
+  {
+    "id": 49,
+    "name": "Washing Machine",
+    "price": 500
+  },
+  {
+    "id": 50,
+    "name": "Dryer",
+    "price": 400
+  },
+  {
+    "id": 51,
+    "name": "Vacuum Cleaner",
+    "price": 300
+  },
+  {
+    "id": 52,
+    "name": "Blender",
+    "price": 80
+  },
+  {
+    "id": 53,
+    "name": "Food Processor",
+    "price": 150
+  },
+  {
+    "id": 54,
+    "name": "Rice Cooker",
+    "price": 60
+  },
+  {
+    "id": 55,
+    "name": "Slow Cooker",
+    "price": 80
+  },
+  {
+    "id": 56,
+    "name": "Electric Grill",
+    "price": 100
+  },
+  {
+    "id": 57,
+    "name": "Toaster",
+    "price": 50
+  },
+  {
+    "id": 58,
+    "name": "Juicer",
+    "price": 70
+  },
+  {
+    "id": 59,
+    "name": "Pressure Cooker",
+    "price": 85
+  },
+  {
+    "id": 60,
+    "name": "Ice Cream Maker",
+    "price": 90
+  },
+  {
+    "id": 61,
+    "name": "Electric Skillet",
+    "price": 70
+  },
+  {
+    "id": 62,
+    "name": "Cookbook",
+    "price": 25
+  },
+  {
+    "id": 63,
+    "name": "Yoga Mat",
+    "price": 30
+  },
+  {
+    "id": 64,
+    "name": "Dumbbells",
+    "price": 80
+  },
+  {
+    "id": 65,
+    "name": "Treadmill",
+    "price": 800
+  },
+  {
+    "id": 66,
+    "name": "Exercise Bike",
+    "price": 500
+  },
+  {
+    "id": 67,
+    "name": "Weights Bench",
+    "price": 300
+  },
+  {
+    "id": 68,
+    "name": "Resistance Bands",
+    "price": 40
+  },
+  {
+    "id": 69,
+    "name": "Jump Rope",
+    "price": 15
+  },
+  {
+    "id": 70,
+    "name": "Foam Roller",
+    "price": 25
+  },
+  {
+    "id": 71,
+    "name": "Massage Gun",
+    "price": 120
+  },
+  {
+    "id": 72,
+    "name": "First Aid Kit",
+    "price": 40
+  },
+  {
+    "id": 73,
+    "name": "Thermometer",
+    "price": 20
+  },
+  {
+    "id": 74,
+    "name": "Blood Pressure Monitor",
+    "price": 60
+  },
+  {
+    "id": 75,
+    "name": "Fitness Smartwatch",
+    "price": 150
+  },
+  {
+    "id": 76,
+    "name": "Wireless Charger",
+    "price": 25
+  },
+  {
+    "id": 77,
+    "name": "Portable Projector",
+    "price": 300
+  },
+  {
+    "id": 78,
+    "name": "Smart Door Lock",
+    "price": 200
+  },
+  {
+    "id": 79,
+    "name": "Electric Bicycle",
+    "price": 1200
+  },
+  {
+    "id": 80,
+    "name": "Robotic Vacuum",
+    "price": 350
+  },
+  {
+    "id": 81,
+    "name": "Air Purifier",
+    "price": 200
+  },
+  {
+    "id": 82,
+    "name": "Dehumidifier",
+    "price": 180
+  },
+  {
+    "id": 83,
+    "name": "Humidifier",
+    "price": 120
+  },
+  {
+    "id": 84,
+    "name": "Water Filter Pitcher",
+    "price": 30
+  },
+  {
+    "id": 85,
+    "name": "Coffee Grinder",
+    "price": 50
+  },
+  {
+    "id": 86,
+    "name": "Electric Wine Opener",
+    "price": 40
+  },
+  {
+    "id": 87,
+    "name": "Pizza Stone",
+    "price": 30
+  },
+  {
+    "id": 88,
+    "name": "Cast Iron Skillet",
+    "price": 60
+  },
+  {
+    "id": 89,
+    "name": "Dutch Oven",
+    "price": 100
+  },
+  {
+    "id": 90,
+    "name": "Baking Sheet",
+    "price": 20
+  },
+  {
+    "id": 91,
+    "name": "Cooking Thermometer",
+    "price": 25
+  },
+  {
+    "id": 92,
+    "name": "Meat Slicer",
+    "price": 300
+  },
+  {
+    "id": 93,
+    "name": "Food Vacuum Sealer",
+    "price": 100
+  },
+  {
+    "id": 94,
+    "name": "Mini Fridge",
+    "price": 200
+  },
+  {
+    "id": 95,
+    "name": "Electric Fondue Pot",
+    "price": 60
+  },
+  {
+    "id": 96,
+    "name": "Wine Refrigerator",
+    "price": 250
+  },
+  {
+    "id": 97,
+    "name": "Tabletop Griddle",
+    "price": 70
+  },
+  {
+    "id": 98,
+    "name": "Pasta Maker",
+    "price": 150
+  },
+  {
+    "id": 99,
+    "name": "Electric Can Opener",
+    "price": 30
+  },
+  {
+    "id": 100,
+    "name": "Soda Maker",
+    "price": 100
+  }
+]
